@@ -14,4 +14,6 @@ const main = function() {
   console.log(streams.stdErr);
 }
 
-main();
+main( );
+
+exports.main = main;
